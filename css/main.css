@@ -10,3 +10,18 @@ body {
 h1,h2,h3{
   line-height:1.2
 }
+
+div {
+	margin:40px auto;
+  max-width:650px;
+  line-height:1.6;
+  font-size:18px;
+  color:#444;
+  padding:0 10px;
+}
+
+.fa-2x {
+	color: black;
+	padding-right: 10px;
+
+}
