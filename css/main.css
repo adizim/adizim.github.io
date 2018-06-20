@@ -3,25 +3,29 @@ body {
   max-width:650px;
   line-height:1.6;
   font-size:18px;
+  font-family: Helvetica;
   color:#444;
   padding:0 10px;
-}
-
-h1,h2,h3{
-  line-height:1.2
 }
 
 div {
-	margin:40px auto;
-  max-width:650px;
-  line-height:1.6;
-  font-size:18px;
-  color:#444;
-  padding:0 10px;
+	margin:30px auto;
 }
 
-.fa-2x {
-	color: black;
-	padding-right: 10px;
+i {
+	padding-right: 15px;
+}
 
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
 }
