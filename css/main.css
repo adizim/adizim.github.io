@@ -12,8 +12,12 @@ div {
 	margin:30px auto;
 }
 
-i {
-	padding-right: 15px;
+a {
+  opacity: 0.5;
+}
+
+.link {
+    padding-right: 15px;
 }
 
 a:link {
@@ -27,5 +31,5 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-    color: hotpink;
+    opacity: 1;
 }
