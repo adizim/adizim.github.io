@@ -8,8 +8,19 @@ body {
   padding:0 10px;
 }
 
-div {
-	margin:30px auto;
+.links {
+  margin: 20px auto;
+  font-size: 14px;
+}
+
+.icons {
+  display:inline;
+  float: left;
+}
+
+.email {
+  display:inline;
+  float: right;
 }
 
 a {
