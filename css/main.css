@@ -23,24 +23,34 @@ body {
   float: right;
 }
 
-a {
+.icons a {
   opacity: 0.5;
+  color: black;
+}
+/* mouse over link */
+.icons a:hover {
+    opacity: 1;
 }
 
 .link {
     padding-right: 15px;
 }
 
-a:link {
-    color: black;
+
+.text a {
+  color: #0040ff;
+}
+
+.text a:link {
+  text-decoration: none;
 }
 
 /* visited link */
-a:visited {
-    color: black;
+.text a:visited {
+  text-decoration: none;
 }
 
 /* mouse over link */
-a:hover {
-    opacity: 1;
+.text a:hover {
+    text-decoration: underline;
 }
