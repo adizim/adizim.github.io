@@ -1,9 +1,13 @@
+@font-face{
+  font-family:"ProximaNova";
+  src:url("ProximaNova-Regular.ttf");
+}
 body {
   margin:40px auto;
   max-width:650px;
   line-height:1.6;
-  font-size:18px;
-  font-family: Helvetica;
+  font-size:20px;
+  font-family: ProximaNova, Helvetica, sans-serif;
   color:#444;
   padding:0 10px;
 }
