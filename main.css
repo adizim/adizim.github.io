@@ -4,9 +4,9 @@
 }
 body {
   margin:40px auto;
-  max-width:650px;
-  line-height:1.6;
-  font-size:19px;
+  max-width:700px;
+  line-height:1.4;
+  font-size:20px;
   font-family: ProximaNova, Helvetica, sans-serif;
   color:#444;
   padding:0 10px;
@@ -14,17 +14,12 @@ body {
 
 .links {
   margin: 20px auto; 
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .icons {
   display:inline;
   float: left;
-}
-
-.email {
-  display:inline;
-  float: right;
 }
 
 .icons a {
